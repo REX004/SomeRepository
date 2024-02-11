@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corners_radius_20dp">20dp</dimen>
+    <dimen name="text_size_36sp">36sp</dimen>
+    <dimen name="login_layout_padding">20dp</dimen>
+    <dimen name="input_text_size_16sp">16sp</dimen>
+    <dimen name="_15dp">15dp</dimen>
+    <dimen name="_16sp">16sp</dimen>
+    <dimen name="_12sp">12sp</dimen>
+    <dimen name="_40dp">40dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="boxStrokeWidth">2dp</dimen>
+</resources>
